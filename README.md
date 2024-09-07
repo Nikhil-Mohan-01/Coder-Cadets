@@ -1,7 +1,8 @@
 # Coder-Cadets
 A website for a coding club
 
-Here is the preview of the website without the club Specific info: **https://codercadets.github.io/codercadetswebsite/#**
+Here is the preview of the website without the club Specific info: **https://codercadets.github.io/codercadetswebsite/#**   
+(I made a specific github for this to make the link look nice)
 
 This website doesn't have the specific info added just yet
 
